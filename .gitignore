@@ -1,0 +1,17 @@
+Build
+Debug
+Release
+debug
+release
+GeneratedFiles
+ipch
+*.pdb
+*.sdf
+*.suo
+*.opensdf
+bin
+Bin
+obj
+TestResults
+publish
+.svn
